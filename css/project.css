@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+.social {
+    text-align: center;
+    list-style-type:none;
+
+}
+
+.social ul li a {
+    padding: 0.5em;
+}
